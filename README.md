@@ -1,3 +1,3 @@
 # helloworld
 
-# saying hello to the world
+Learning about GIS programming, here just doing "hello world".
